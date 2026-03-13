@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature
-         url="features/civerooni.com.putman.feature_1.0.0.202603122309.jar"
-         id="civerooni.com.putman.feature"
-         version="1.0.0.202603122309">
+   <feature url="features/civerooni.com.putman.feature_1.0.0.202603130022.jar" id="civerooni.com.putman.feature" version="1.0.0.202603130022">
       <category name="civerooni.com.putman.category"/>
    </feature>
-   <category-def
-         name="civerooni.com.putman.category"
-         label="Putman REST Client">
+   <category-def name="civerooni.com.putman.category" label="Putman REST Client">
       <description>
          Putman is a REST API client for Eclipse, inspired by Postman.
          Send HTTP requests (GET, POST, PUT, PATCH, DELETE, HEAD, OPTIONS),
